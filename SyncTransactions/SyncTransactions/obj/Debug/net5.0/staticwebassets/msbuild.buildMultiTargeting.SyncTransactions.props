@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SyncTransactions.props" />
+</Project>

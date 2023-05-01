@@ -1,0 +1,15 @@
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\bin\Debug\net5.0\SyncProject.DAL.deps.json
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\bin\Debug\net5.0\SyncProject.DAL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\bin\Debug\net5.0\SyncProject.DAL.pdb
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.AssemblyInfo.cs
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\refint\SyncProject.DAL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.pdb
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\ref\SyncProject.DAL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\bin\Debug\net5.0\SyncProject.DAL.runtimeconfig.json
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\bin\Debug\net5.0\SyncProject.DAL.runtimeconfig.dev.json
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.DAL\obj\Debug\net5.0\SyncProject.DAL.genruntimeconfig.cache

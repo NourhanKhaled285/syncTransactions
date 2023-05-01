@@ -1,0 +1,15 @@
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\bin\Debug\net5.0\SyncProject.BLL.deps.json
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\bin\Debug\net5.0\SyncProject.BLL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\bin\Debug\net5.0\SyncProject.BLL.pdb
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\bin\Debug\net5.0\SyncProject.DAL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\bin\Debug\net5.0\SyncProject.DAL.pdb
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.csproj.AssemblyReference.cache
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.AssemblyInfoInputs.cache
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.AssemblyInfo.cs
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.csproj.CopyComplete
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\refint\SyncProject.BLL.dll
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\SyncProject.BLL.pdb
+C:\Users\Restart\source\repos\SyncTransactions\SyncProject.BLL\obj\Debug\net5.0\ref\SyncProject.BLL.dll
